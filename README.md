@@ -1,2 +1,0 @@
-# pomodoro
-Created with CodeSandbox
